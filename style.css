@@ -1,0 +1,46 @@
+#main-div{
+    margin: 100px;
+    margin-right:10px;
+    height: 70%;
+    width: 20%;
+    min-width:300px;
+    max-width: 400px;
+    /* border: 1px solid black; */
+    background-color: white;
+    text-align: center;
+}
+#inner-div div{
+    height:70px;
+    width:70px;
+    display: inline-block;
+    font-size: 30px;
+    font-weight: 20px;
+    text-align: center;
+}
+
+
+.buttons{
+    height: 20%;
+    width: 45%;
+    border: 1px solid black;
+    display: inline-block;
+    margin: -2px;
+    margin-top: -1px;
+    margin-bottom: 1px;
+}
+.buttonss{
+    height:20%;
+    width: 53%;
+    border: 1px solid black;
+}
+
+#display-container{
+    width: 98%;
+    height: 70px;
+    border: 1px solid black;
+    margin-left: 5px;
+}
+
+#display{
+    text-align: center;
+}
